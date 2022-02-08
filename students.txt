@@ -1,0 +1,10 @@
+513;Razvan Pop;2
+796;Elena Bucur;2
+296;Alexandra Pop;3
+532;Elena Bucur;3
+695;Anca Lazar;1
+836;Elena Pop;3
+491;Alex Pop;1
+618;Razvan Bucur;1
+573;Razvan Turdean;1
+725;Alex Lazar;1
