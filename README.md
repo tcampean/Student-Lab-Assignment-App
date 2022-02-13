@@ -8,3 +8,4 @@ Developed during Fundamentals of Programming course of UBB
 * Basic OOP concepts
 * Layered Architecture
 * Data Serialization using Pickle
+* Unit Testing
