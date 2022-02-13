@@ -1,9 +1,9 @@
-A console application for managing Students along with their assignments and grades
+A console application for managing students along with their assignments and grades
 
 Developed during Fundamentals of Programming course of UBB
 
 
-**Learned
+**Learned**
 * Python Programming Language
 * Basic OOP concepts
 * Layered Architecture
