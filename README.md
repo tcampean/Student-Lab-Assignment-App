@@ -3,7 +3,7 @@ A console application for managing Students along with their assignments and gra
 Developed during Fundamentals of Programming course of UBB
 
 
-* Learned
+**Learned
 * Python Programming Language
 * Basic OOP concepts
 * Layered Architecture
